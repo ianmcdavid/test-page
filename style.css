@@ -1,0 +1,30 @@
+/* Hide header */
+header {
+    display: none;
+}
+
+/***** Global Styles ******/
+figure {
+    margin: 0;
+}
+
+
+
+/********** Mobile Styles **********/
+
+/***** Treat Your Pet Styles *****/
+#treat-your-pet {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+button {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/******* Our Treat Styles ******/
+.hide {
+    display: none;
+}
